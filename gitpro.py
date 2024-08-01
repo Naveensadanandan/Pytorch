@@ -1,1 +1,0 @@
-print("egane irikunn")
