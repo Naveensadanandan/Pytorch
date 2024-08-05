@@ -13,5 +13,5 @@ To get started with the tutorials in this repository, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/pytorch-tutorials.git
-   cd pytorch-tutorials
+   git clone https://github.com/Naveensadanandan/Pytorch.git
+   cd Pytorch
